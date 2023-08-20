@@ -14,6 +14,8 @@ namespace Git_Test
             Console.WriteLine("Hello Stasik");
 
             Console.WriteLine("Привет от Алекса");
+
+            Huesos
             
             
         }
