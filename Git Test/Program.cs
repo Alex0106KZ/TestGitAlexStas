@@ -12,6 +12,8 @@ namespace Git_Test
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello Stasik");
+
+            Console.WriteLine("Привет от Алекса");
             
             
         }
