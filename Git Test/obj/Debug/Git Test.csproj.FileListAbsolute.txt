@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Alex\Documents\Project Test\Git Test\Git Test\bin\Debug\Git Test.exe.config
 C:\Users\Alex\Documents\Project Test\Git Test\Git Test\bin\Debug\Git Test.exe
 C:\Users\Alex\Documents\Project Test\Git Test\Git Test\bin\Debug\Git Test.pdb
@@ -6,3 +7,12 @@ C:\Users\Alex\Documents\Project Test\Git Test\Git Test\obj\Debug\Git Test.csproj
 C:\Users\Alex\Documents\Project Test\Git Test\Git Test\obj\Debug\Git Test.csproj.CoreCompileInputs.cache
 C:\Users\Alex\Documents\Project Test\Git Test\Git Test\obj\Debug\Git Test.exe
 C:\Users\Alex\Documents\Project Test\Git Test\Git Test\obj\Debug\Git Test.pdb
+=======
+C:\sasha_git\TestGitAlexStas\Git Test\bin\Debug\Git Test.exe.config
+C:\sasha_git\TestGitAlexStas\Git Test\bin\Debug\Git Test.exe
+C:\sasha_git\TestGitAlexStas\Git Test\bin\Debug\Git Test.pdb
+C:\sasha_git\TestGitAlexStas\Git Test\obj\Debug\Git Test.csproj.AssemblyReference.cache
+C:\sasha_git\TestGitAlexStas\Git Test\obj\Debug\Git Test.csproj.CoreCompileInputs.cache
+C:\sasha_git\TestGitAlexStas\Git Test\obj\Debug\Git Test.exe
+C:\sasha_git\TestGitAlexStas\Git Test\obj\Debug\Git Test.pdb
+>>>>>>> 93bb76508de32f76f715b8cc8e13e8b233407916
