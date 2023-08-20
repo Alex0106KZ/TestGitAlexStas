@@ -1,0 +1,8 @@
+C:\Users\Alex\Documents\Project Test\Git Test\Git Test\bin\Debug\Git Test.exe.config
+C:\Users\Alex\Documents\Project Test\Git Test\Git Test\bin\Debug\Git Test.exe
+C:\Users\Alex\Documents\Project Test\Git Test\Git Test\bin\Debug\Git Test.pdb
+C:\Users\Alex\Documents\Project Test\Git Test\Git Test\obj\Debug\Git Test.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Project Test\Git Test\Git Test\obj\Debug\Git Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Documents\Project Test\Git Test\Git Test\obj\Debug\Git Test.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Project Test\Git Test\Git Test\obj\Debug\Git Test.exe
+C:\Users\Alex\Documents\Project Test\Git Test\Git Test\obj\Debug\Git Test.pdb

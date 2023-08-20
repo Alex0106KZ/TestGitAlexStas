@@ -14,6 +14,10 @@ namespace Git_Test
             Console.WriteLine("Hello Stasik");
 
             Console.WriteLine("Привет от Алекса");
+
+            Console.ReadKey();  
+
+            Говно ебаннноееее ыЫЫЫЫААВЛАОЛЫВАИЫВАР
             
             
         }
