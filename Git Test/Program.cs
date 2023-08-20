@@ -15,7 +15,7 @@ namespace Git_Test
 
             Console.WriteLine("Привет от Алекса");
             
-            
+            blablablba
         }
     }
 }

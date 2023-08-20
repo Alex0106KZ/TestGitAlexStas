@@ -1,0 +1,7 @@
+C:\sasha_git\TestGitAlexStas\Git Test\bin\Debug\Git Test.exe.config
+C:\sasha_git\TestGitAlexStas\Git Test\bin\Debug\Git Test.exe
+C:\sasha_git\TestGitAlexStas\Git Test\bin\Debug\Git Test.pdb
+C:\sasha_git\TestGitAlexStas\Git Test\obj\Debug\Git Test.csproj.AssemblyReference.cache
+C:\sasha_git\TestGitAlexStas\Git Test\obj\Debug\Git Test.csproj.CoreCompileInputs.cache
+C:\sasha_git\TestGitAlexStas\Git Test\obj\Debug\Git Test.exe
+C:\sasha_git\TestGitAlexStas\Git Test\obj\Debug\Git Test.pdb
